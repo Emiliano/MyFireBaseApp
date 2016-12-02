@@ -1,2 +1,2 @@
 # MyFireBaseApp
-my app using firebase resources 
+A test app using firebase 
